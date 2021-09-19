@@ -4,5 +4,15 @@ body {
 }
 
 .profileImage {
-  
+  height: 500px;
+  width: auto;
+}
+
+.skill-icon {
+  height: 40px;
+  width: auto;
+};
+
+.bg-custom {
+  background-color: #343a40;
 }
