@@ -4,7 +4,7 @@ import '../../assets/css/Project.css';
 function Project({ projects }) {
     console.log(projects);
     const displayProject = projects.map(project =>
-        <div className="col-lg-4 col-md-4 col-sm-6 col-xs-12 container_img m-3" key={project.alt}>
+        <div className="col-lg-4 col-md-4 col-sm-6 col-xs-12 containerImg m-3" key={project.alt}>
             <div className="wrapper text-center">
                 <div className="row hold">
                     <div className="col-6 px-0">

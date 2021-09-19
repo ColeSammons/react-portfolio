@@ -1,12 +1,12 @@
 
-.container_img {
+.containerImg {
 	padding: 0;
 	overflow: hidden;
 	max-width: 300px;
 	margin: 5px;
 }
 
-.container_img article {
+.containerImg article {
 	padding: 10%;
 	position: absolute;
 	bottom: 0;
@@ -18,7 +18,7 @@
 	transition: all 0.5s ease;
 }
 
-.container_img h2 {
+.containerImg h2 {
     color: #fff;
     text-shadow: 2px 2px black;
 	font-weight: 800;
@@ -33,7 +33,7 @@
 	font-size: 16px;
 }
 
-.container_img img {
+.containerImg img {
     opacity: .4;
 	width: 100%;
 	top: 0;
@@ -79,12 +79,12 @@
 	cursor: pointer;
 }
 
-.container_img:hover img {
+.containerImg:hover img {
 	opacity: 0.2;
 	transform: scale(1.2);
 }
 
-.container_img:hover article {
+.containerImg:hover article {
 	transform: translate(2px, -69px);
 	-webkit-transform: translate(2px, -69px);
 	-moz-transform: translate(2px, -69px);
@@ -92,7 +92,7 @@
 	-ms-transform: translate(2px, -69px);
 }
 
-.container_img:hover .wrapper {
+.containerImg:hover .wrapper {
 	transform: translate(0px, 0px);
 	-webkit-transform: translate(0px, 0px);
 	-moz-transform: translate(0px, 0px);
