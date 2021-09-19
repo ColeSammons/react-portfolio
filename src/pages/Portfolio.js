@@ -1,5 +1,7 @@
 import React from 'react';
 import Project from '../components/Project';
+import '../assets/css/project.css';
+
 
 function Portfolio() {
     const projects = [
