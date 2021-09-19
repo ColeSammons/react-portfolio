@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.8ff7c6ee.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.845e2410.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.845e2410.chunk.js.map",
+    "main.css": "/react-portfolio/static/css/main.6086f032.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.19b746a1.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.19b746a1.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.48530085.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.48530085.js.map",
     "static/css/2.f2512455.chunk.css": "/react-portfolio/static/css/2.f2512455.chunk.css",
-    "static/js/2.dc294ca8.chunk.js": "/react-portfolio/static/js/2.dc294ca8.chunk.js",
-    "static/js/2.dc294ca8.chunk.js.map": "/react-portfolio/static/js/2.dc294ca8.chunk.js.map",
+    "static/js/2.b0a67222.chunk.js": "/react-portfolio/static/js/2.b0a67222.chunk.js",
+    "static/js/2.b0a67222.chunk.js.map": "/react-portfolio/static/js/2.b0a67222.chunk.js.map",
     "static/js/3.e187dd03.chunk.js": "/react-portfolio/static/js/3.e187dd03.chunk.js",
     "static/js/3.e187dd03.chunk.js.map": "/react-portfolio/static/js/3.e187dd03.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
     "static/css/2.f2512455.chunk.css.map": "/react-portfolio/static/css/2.f2512455.chunk.css.map",
-    "static/css/main.8ff7c6ee.chunk.css.map": "/react-portfolio/static/css/main.8ff7c6ee.chunk.css.map",
-    "static/js/2.dc294ca8.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.dc294ca8.chunk.js.LICENSE.txt",
+    "static/css/main.6086f032.chunk.css.map": "/react-portfolio/static/css/main.6086f032.chunk.css.map",
+    "static/js/2.b0a67222.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.b0a67222.chunk.js.LICENSE.txt",
     "static/media/Cole_Sammons_Resume.pdf": "/react-portfolio/static/media/Cole_Sammons_Resume.d7361504.pdf",
     "static/media/deep-thoughts.png": "/react-portfolio/static/media/deep-thoughts.164aae05.png",
     "static/media/food-festival.png": "/react-portfolio/static/media/food-festival.2811d338.png",
@@ -29,8 +29,8 @@
   "entrypoints": [
     "static/js/runtime-main.48530085.js",
     "static/css/2.f2512455.chunk.css",
-    "static/js/2.dc294ca8.chunk.js",
-    "static/css/main.8ff7c6ee.chunk.css",
-    "static/js/main.845e2410.chunk.js"
+    "static/js/2.b0a67222.chunk.js",
+    "static/css/main.6086f032.chunk.css",
+    "static/js/main.19b746a1.chunk.js"
   ]
 }
