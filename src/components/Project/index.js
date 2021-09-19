@@ -8,12 +8,12 @@ function Project({ projects }) {
             <div className="wrapper text-center">
                 <div className="row hold">
                     <div className="col-6 px-0">
-                        <a href={project.github} target="_blank">
+                        <a href={project.github} target="_blank" rel="norefferer">
                             <button className="btn btn-outline-light btn-lg btn-block"><i className="fab fa-github"></i></button>
                         </a>
                     </div>
                     <div className="col-6 px-0">
-                        <a href={project.deployed} target="_blank">
+                        <a href={project.deployed} target="_blank" rel="norefferer">
                             <button className="btn btn-outline-light btn-lg btn-block"><i class="fa fa-link"></i></button>
                         </a>
                     </div>

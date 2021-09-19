@@ -7,7 +7,7 @@ function About() {
             <div className="container">
                 <div className="row">
                     <div className="col-md-6 text-center py-3">
-                        <img className="img-fluid profileImage" src={require(`../assets/images/me.jpg`).default}></img>
+                        <img className="img-fluid profileImage" src={require(`../assets/images/me.jpg`).default} alt="cole-sammons"></img>
                     </div>
                     <div className="col-md-6 mb-5 pb-5">
                         <p>
