@@ -27,11 +27,11 @@ function Portfolio() {
             deployed: "https://colesammons.github.io/run-buddy/"
         },
         {
-            name: "Deep Thoughts",
-            alt: "deep-thoughts",
-            tools: "Javascript, HTML, CSS, Express, Bcyrpt, Git, Github, Apollo, Faker, GraphQL, Mongoose, JSONWebToken, React",
-            github: "https://github.com/ColeSammons/deep-thoughts",
-            deployed: "https://blooming-woodland-60351.herokuapp.com/"
+            name: "Hard Code Gamers",
+            alt: "hard-code-gamers",
+            tools: "Javascript, HTML, CSS, Express, Bcyrpt, Git, Github, GraphQL, Mongoose, JSONWebToken, React",
+            github: "https://github.com/ColeSammons/hard-code-gamer",
+            deployed: "https://hard-code-gamer.herokuapp.com/"
         },
         {
             name: "Photo Port",
