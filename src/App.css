@@ -16,3 +16,14 @@ body {
 .bg-custom {
   background-color: #343a40;
 }
+
+.email {
+  color: #fff;
+  text-decoration: none;
+
+}
+
+.email:hover {
+  text-decoration: underline #fff;
+  color: #fff;
+}

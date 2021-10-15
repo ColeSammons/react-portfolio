@@ -62,6 +62,9 @@ return (
             <button data-testid='button' class="btn btn-outline-light " type="submit" onSubmit={handleSubmit}>Submit</button>
             </div>
         </form>
+        <div>
+            Or contact me through email at <a href="mailto:colemsammons@gmail.com" className="email">colemsammons@gmail.com</a>
+        </div>
     </section>
     );
 }
