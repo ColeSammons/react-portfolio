@@ -8,7 +8,7 @@ function Footer() {
                     <a className="btn btn-outline-light btn-floating m-1" href="https://www.facebook.com/" role="button"
                         target="_blank" rel="norefferer"><i className="fab fa-github"></i></a>
 
-                    <a className="btn btn-outline-light btn-floating m-1" href="https://twitter.com/home" role="button"
+                    <a className="btn btn-outline-light btn-floating m-1" href="https://www.linkedin.com/in/cole-sammons-8073661b5/" role="button"
                         target="_blank" rel="norefferer"><i className="fab fa-linkedin-in"></i></a>
                 </div>
                 <div className="mt-auto mr-2 copyright">

@@ -21,6 +21,7 @@ function Project({ projects }) {
             </div>
             <article className="text-center">
                 <h2>{project.name}</h2>
+                <h4 className="description">{project.desc}</h4>
                 <h4 className="tools">{project.tools}</h4>
             </article>
             <img src={require(`../../assets/images/${project.alt}.png`).default} alt={project.alt}></img>
